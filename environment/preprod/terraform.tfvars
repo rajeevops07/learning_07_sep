@@ -18,9 +18,9 @@ STORAGE_ACCOUNTS = {
   }
   "STG2" = {
     stgname                 = "stg2-raj-preprod"
-    resource_group_name     = "rg2-raj-preprod"
+    resource_group_name     = "rg2-raj-preprod2"
     stglocation             = "West US"
     account_tier            = "Standard"
     account_replication_type = "LRS"
   }
-}
+  }
